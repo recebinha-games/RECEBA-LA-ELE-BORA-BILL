@@ -1,0 +1,14 @@
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.AssemblyInfoInputs.cache
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.AssemblyInfo.cs
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.csproj.CoreCompileInputs.cache
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\bin\Debug\net8.0\atividade_PauloRicardo.exe
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\bin\Debug\net8.0\atividade_PauloRicardo.deps.json
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\bin\Debug\net8.0\atividade_PauloRicardo.runtimeconfig.json
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\bin\Debug\net8.0\atividade_PauloRicardo.dll
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\bin\Debug\net8.0\atividade_PauloRicardo.pdb
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.dll
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\refint\atividade_PauloRicardo.dll
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.pdb
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\atividade_PauloRicardo.genruntimeconfig.cache
+D:\Users\20241170150044\Desktop\atividade_PauloRicardo\obj\Debug\net8.0\ref\atividade_PauloRicardo.dll

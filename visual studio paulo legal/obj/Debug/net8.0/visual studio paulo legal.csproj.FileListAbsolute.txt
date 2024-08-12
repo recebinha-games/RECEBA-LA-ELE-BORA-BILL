@@ -1,0 +1,14 @@
+D:\Users\20241170150044\Desktop\visual studio paulo legal\bin\Debug\net8.0\visual studio paulo legal.exe
+D:\Users\20241170150044\Desktop\visual studio paulo legal\bin\Debug\net8.0\visual studio paulo legal.deps.json
+D:\Users\20241170150044\Desktop\visual studio paulo legal\bin\Debug\net8.0\visual studio paulo legal.runtimeconfig.json
+D:\Users\20241170150044\Desktop\visual studio paulo legal\bin\Debug\net8.0\visual studio paulo legal.dll
+D:\Users\20241170150044\Desktop\visual studio paulo legal\bin\Debug\net8.0\visual studio paulo legal.pdb
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.AssemblyInfoInputs.cache
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.AssemblyInfo.cs
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.csproj.CoreCompileInputs.cache
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.dll
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\refint\visual studio paulo legal.dll
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.pdb
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\visual studio paulo legal.genruntimeconfig.cache
+D:\Users\20241170150044\Desktop\visual studio paulo legal\obj\Debug\net8.0\ref\visual studio paulo legal.dll

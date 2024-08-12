@@ -1,0 +1,14 @@
+D:\Users\20241170150044\Desktop\recebinha games\bin\Debug\net8.0\recebinha games.exe
+D:\Users\20241170150044\Desktop\recebinha games\bin\Debug\net8.0\recebinha games.deps.json
+D:\Users\20241170150044\Desktop\recebinha games\bin\Debug\net8.0\recebinha games.runtimeconfig.json
+D:\Users\20241170150044\Desktop\recebinha games\bin\Debug\net8.0\recebinha games.dll
+D:\Users\20241170150044\Desktop\recebinha games\bin\Debug\net8.0\recebinha games.pdb
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.AssemblyInfoInputs.cache
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.AssemblyInfo.cs
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.csproj.CoreCompileInputs.cache
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.dll
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\refint\recebinha games.dll
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.pdb
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\recebinha games.genruntimeconfig.cache
+D:\Users\20241170150044\Desktop\recebinha games\obj\Debug\net8.0\ref\recebinha games.dll

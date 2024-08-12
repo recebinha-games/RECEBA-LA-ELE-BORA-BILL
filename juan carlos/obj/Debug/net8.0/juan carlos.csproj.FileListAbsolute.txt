@@ -1,0 +1,14 @@
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.AssemblyInfoInputs.cache
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.AssemblyInfo.cs
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.csproj.CoreCompileInputs.cache
+D:\Users\20241170150044\Desktop\juan carlos\bin\Debug\net8.0\juan carlos.exe
+D:\Users\20241170150044\Desktop\juan carlos\bin\Debug\net8.0\juan carlos.deps.json
+D:\Users\20241170150044\Desktop\juan carlos\bin\Debug\net8.0\juan carlos.runtimeconfig.json
+D:\Users\20241170150044\Desktop\juan carlos\bin\Debug\net8.0\juan carlos.dll
+D:\Users\20241170150044\Desktop\juan carlos\bin\Debug\net8.0\juan carlos.pdb
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.dll
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\refint\juan carlos.dll
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.pdb
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\juan carlos.genruntimeconfig.cache
+D:\Users\20241170150044\Desktop\juan carlos\obj\Debug\net8.0\ref\juan carlos.dll
